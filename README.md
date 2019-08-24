@@ -1,4 +1,6 @@
 # Feed-Reader-Testing-Project
+Feed Reader Testing is a project for testing cases in Javascript using Jasmine library.
+
 This is my application of Feed Reader Testing Project of FEND from Udacity.
 # Getting Started
 Download the project and open  **index.html** file using any web browser and the testing will be automatically. 
